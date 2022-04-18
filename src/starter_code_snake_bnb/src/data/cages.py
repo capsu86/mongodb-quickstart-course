@@ -16,5 +16,5 @@ class Cage(mongoengine.Document):
 
 meta = {
     'db_alias': 'core',
-    'collection': 'snakes'
+    'collection': 'cages'
 }
